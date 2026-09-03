@@ -1,0 +1,131 @@
+{
+  "courses": [
+    {
+      "id": "ext201",
+      "title": "Fundamentals of Agricultural Extension",
+      "code": "EXT 201",
+      "url": "https://www.thesisanalysis.com/p/fundamentals-of-agricultural-extension.html?app=1",
+      "category": "Extension Education",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "ext505",
+      "title": "Capacity Development",
+      "code": "EXT 505",
+      "url": "https://www.thesisanalysis.com/p/ext-505-capacity-development.html?app=1",
+      "category": "Extension Education",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "ext011",
+      "title": "Personality Development",
+      "code": "EXT 011",
+      "url": "https://www.thesisanalysis.com/p/personality-development.html?app=1",
+      "category": "Personality & Development",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "pgs505",
+      "title": "Agricultural Research & Ethics",
+      "code": "PGS 505",
+      "url": "https://www.thesisanalysis.com/p/agricultural-research-research-ethics.html?app=1",
+      "category": "Research Methodology",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "pioneers_extension",
+      "title": "Pioneers of Agricultural Extension",
+      "code": null,
+      "url": "https://www.thesisanalysis.com/p/pioneers-of-agricultural-extension.html?app=1",
+      "category": "Extension Education",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "pau_rules",
+      "title": "PAU Semester & Hostel Rules",
+      "code": null,
+      "url": "https://www.thesisanalysis.com/p/pau-semester-hostel-rules.html?app=1",
+      "category": "Administration",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "general_awareness",
+      "title": "General Awareness",
+      "code": null,
+      "url": "https://www.thesisanalysis.com/p/general-awareness.html?app=1",
+      "category": "Personality & Development",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "thesis_writing_guides",
+      "title": "Thesis Writing Guides",
+      "code": null,
+      "url": "https://www.thesisanalysis.com/p/thesis-writing-guides.html?app=1",
+      "category": "Research Methodology",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    }
+  ],
+  "tools": [
+    {
+      "id": "qr_generator",
+      "title": "QR Code Generator",
+      "url": "https://www.thesisanalysis.com/p/qr-code-generator.html?app=1",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "age_calculator",
+      "title": "Age Calculator",
+      "url": "https://www.thesisanalysis.com/p/age-calculator.html?app=1",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "days_between_dates",
+      "title": "Days Between Dates Calculator",
+      "url": "https://www.thesisanalysis.com/p/days-between-dates-calculator.html?app=1",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "agri_unit_converter",
+      "title": "Agricultural Unit Converter",
+      "url": "https://www.thesisanalysis.com/p/agricultural-unit-converter.html?app=1",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "pdf_to_image",
+      "title": "PDF to Image",
+      "url": "https://www.thesisanalysis.com/p/pdf-to-image.html?app=1",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "images_to_pdf",
+      "title": "Images to PDF",
+      "url": "https://www.thesisanalysis.com/p/images-to-pdf.html?app=1",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
+    {
+      "id": "pdf_merge",
+      "title": "PDF Merge",
+      "url": "https://www.thesisanalysis.com/p/pdf-merge.html?app=1",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    }
+  ],
+  "articles": [],
+  "announcements": [],
+  "maintenance": false,
+  "minimumAppVersion": null
+}
