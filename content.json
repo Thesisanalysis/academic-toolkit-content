@@ -71,15 +71,6 @@
       "category": "Research Methodology",
       "publishedAt": "2026-01-01",
       "enabled": true
-    },
-    {
-      "id": "course_digital_reflection_log",
-      "title": "Digital Practical Reflection Log",
-      "code": null,
-      "url": "https://www.thesisanalysis.com/p/digital-practical-reflection-log.html?app=1",
-      "category": "Extension Education",
-      "publishedAt": "2026-09-04",
-      "enabled": true
     }
   ],
   "tools": [
