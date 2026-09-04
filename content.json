@@ -9,6 +9,15 @@
       "publishedAt": "2026-01-01",
       "enabled": true
     },
+	{
+      "id": "course_ext203",
+      "title": "Agricultural Extension",
+      "code": "EXT 201",
+      "url": "https://www.thesisanalysis.com/p/fundamentals-of-agricultural-extension.html?app=1",
+      "category": "Extension Education",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
     {
       "id": "course_ext505",
       "title": "Capacity Development",
