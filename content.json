@@ -123,6 +123,13 @@
       "publishedAt": "2026-09-04",
       "enabled": true
     },
+	{
+      "id": "tool_voice_to_text_converter ",
+      "title": "Voice to Text Converter ",
+      "url": "https://www.thesisanalysis.com/p/speech-to-text-converter-advanced.html?app=1",
+      "publishedAt": "2026-09-04",
+      "enabled": true
+    },
     {
       "id": "tool_pdf_merge",
       "title": "PDF Merge",
