@@ -116,6 +116,13 @@
       "publishedAt": "2026-01-01",
       "enabled": true
     },
+	{
+      "id": "tool_descriptive_analysis",
+      "title": "Descriptive Analysis",
+      "url": "https://www.thesisanalysis.com/p/descriptive-analysis.html?app=1",
+      "publishedAt": "2026-01-01",
+      "enabled": true
+    },
     {
       "id": "tool_pdf_merge",
       "title": "PDF Merge",
